@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: deepskyblue;
+}
+
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 25px;
+    color: coral
+}
+
+p {
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+    color: chartreuse
+}
+
+img {
+    height: 350px;
+    width: 350px;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center
+}
+
+.style-section {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: azure
+}
